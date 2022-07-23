@@ -1,8 +1,7 @@
 #![warn(missing_docs)]
 #![no_std]
 #![no_main]
-//! # Crate signal_id
-//!
+//! 
 //! This crate generates on a set of pins a pulse chain that identifies each pin.
 //!
 //! # Motivation
